@@ -1,0 +1,805 @@
+[
+  {
+    "id": {
+      "id": 1
+    },
+    "title": "app",
+    "desc": "Landing Page with Bootstrap & Reactjs",
+    "thumbnail": "images/thumbnail/downloadapp-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/app2/1.jpg",
+      "images/images-package/app2/2.jpg",
+      "images/images-package/app2/3.jpg",
+      "images/images-package/app2/4.jpg",
+      "images/images-package/app2/5.jpg",
+      "images/images-package/app2/6.jpg",
+      "images/images-package/app2/8.png",
+      "images/images-package/app2/10.png"
+    ],
+    "projectTypes": {
+      "type": "app download",
+      "version": "full",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "css": [],
+        "bootstrap": [""],
+        "reactjs": [""]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 6,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": true,
+    "colors": ["#6e00ff", "#ffab00", "#36b37e", "#ffab00", "#d7f0e5"],
+    "fonts": ["nunito"],
+    "themes": ["white"],
+    "code": "private",
+    "lines_of_code": "",
+    "websiteURL": "https://app-promo.netlify.app/",
+    "githubURL": ""
+  },
+  {
+    "id": {
+      "id": 2
+    },
+    "title": "downloady",
+    "desc": "solving problem when you format your pc and spend much of time to download the important apps like google chrome and driver booster now you can't do this in one click",
+    "thumbnail": "images/thumbnail/downloady-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/downloady-1.jpg",
+      "images/images-package/downloady-2.jpg"
+    ],
+    "projectTypes": {
+      "type": "download files",
+      "version": "demo",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "sass": ["flex box", "grid system", "media query"],
+        "reactjs": ["react router dom", "Hooks (useState,useEffect)"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 6.8,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": [
+      "#6df696",
+      "#282b30",
+      "#1a1a1a",
+      "#fafcfd",
+      "#2d2d2e",
+      "#333333",
+      "#6c6f74",
+      "#282b30"
+    ],
+    "fonts": ["Poppins"],
+    "themes": ["dark"],
+    "code": "private",
+    "websiteURL": "https://downloady.netlify.app/",
+    "githubURL": ""
+  },
+  {
+    "id": {
+      "id": 3
+    },
+    "title": "new instagram ui",
+    "desc": "Redesign one instagram page created with reactjs styled component & sass",
+    "thumbnail": "images/thumbnail/instagram-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/instagram/instagram-old.jpg",
+      "images/images-package/instagram/instagram-new.jpg",
+      "images/images-package/instagram/instagram-new-2.jpg"
+    ],
+    "projectTypes": {
+      "type": "social media",
+      "version": "demo",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "sass": [""],
+        "reactjs": ["styled components"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 5.5,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": [
+      "#c20a66",
+      "#f7cffc",
+      "#f5f5f5",
+      "#ffffff",
+      "#18191a",
+      "#242526"
+    ],
+    "fonts": ["Segoe UI"],
+    "themes": ["light"],
+    "code": "private",
+    "websiteURL": "https://instagram-ui.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 4
+    },
+    "title": "red shy",
+    "desc": "E-commerce website - trendy looks : vanilla JS",
+    "thumbnail": "images/thumbnail/redshy-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/redshy/red-shy-1.jpg",
+      "images/images-package/redshy/red-shy-2.jpg",
+      "images/images-package/redshy/red-shy-3.jpg",
+      "images/images-package/redshy/red-shy-4.jpg",
+      "images/images-package/redshy/red-shy-1-page-2.jpg",
+      "images/images-package/redshy/red-shy-2-page-2.jpg",
+      "images/images-package/redshy/red-shy-1-page-4.jpg",
+      "images/images-package/redshy/red-shy-1-page-5.jpg"
+    ],
+    "projectTypes": {
+      "type": "E comerse",
+      "version": "demo",
+      "size": "medium"
+    },
+    "technologys": [
+      {
+        "html": [""],
+        "css": ["flex box", "grid system"],
+        "javascript": ["local storage", "ES6"]
+      }
+    ],
+    "components": ["Home", "All Products", "Product Details", "checkout page"],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 6.9,
+    "pages": 6,
+    "dynamic": true,
+    "responsive": false,
+    "colors": ["#dc3030", "#f5eee4"],
+    "fonts": ["Helvetica Now Text", "Trajan Prot", "arial"],
+    "themes": ["light"],
+    "code": "private",
+    "websiteURL": "https://redshy.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 5
+    },
+    "title": "gaming web",
+    "desc": "a Gaming Landing Page & playing with Animation -  Modern design, in this project i challenge myself to Create Responsive layout without media query",
+    "thumbnail": "images/thumbnail/gaming-web-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/gaming-web-1.jpg",
+      "images/images-package/gaming-web-2.jpg"
+    ],
+    "projectTypes": {
+      "type": "streaming",
+      "version": "demo",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "html": [""],
+        "css": ["flex box", "grid system"],
+        "sass": [""]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 6.9,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": [
+      "#8f61db",
+      "#282b30",
+      "#111111",
+      "#fafcfd",
+      "#333333",
+      "#6c6f74"
+    ],
+    "fonts": ["poppins", "arial"],
+    "themes": ["dark"],
+    "code": "private",
+    "websiteURL": "https://gamingy.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 6
+    },
+    "title": "nike product",
+    "desc": "promot Product landing Page",
+    "thumbnail": "images/thumbnail/jorder-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/nike-product.jpg",
+      "images/images-package/nike-product-2.jpg"
+    ],
+    "projectTypes": {
+      "type": "product",
+      "version": "demo",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "html": [""],
+        "css": [""]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 4,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": [
+      "rgb(29, 29, 29)",
+      "rgb(70, 70, 70)",
+      "aliceblue",
+      "rgb(197, 197, 197)"
+    ],
+    "fonts": ["Barlow Condensed", "arial"],
+    "themes": ["white"],
+    "code": "private",
+    "websiteURL": "",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 7
+    },
+    "title": "aesthetic",
+    "desc": "resumer with aesthetic vibe & 3D scroll",
+    "thumbnail": "images/thumbnail/astatic-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/aesthetic-website/aesthetic-web--1.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--2.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--3.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--4.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--5.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--6.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--7.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--8.jpg",
+      "images/images-package/aesthetic-website/aesthetic-web--9.jpg"
+    ],
+    "projectTypes": {
+      "type": "resumer aesthetic web",
+      "version": "beta",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "html": [null],
+        "css": ["flex box", "grid system", "media query"],
+        "javascript": ["local storage", "ES6"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 6.6,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": ["#837262", "#201f1d", "#f1eeebc5", "#acacac"],
+    "fonts": ["Copyright Klim projectTypes Foundry", "Helvetica Now Text"],
+    "themes": ["white"],
+    "code": "private",
+    "websiteURL": "https://aminxportofolio.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 8
+    },
+    "title": "amin benz",
+    "desc": "personnel website",
+    "thumbnail": "images/thumbnail/personel-web-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/personal-website/personel-web-1.jpg",
+      "images/images-package/personal-website/personel-web-1-cart.jpg",
+      "images/images-package/personal-website/personel-web-2.jpg",
+      "images/images-package/personal-website/personel-web-3.jpg",
+      "images/images-package/personal-website/personel-web-4.jpg",
+      "images/images-package/personal-website/personel-web-1-nav.jpg",
+      "images/images-package/personal-website/personel-web-1-page-1.jpg"
+    ],
+    "components": ["Home", "checkout page", "NavbarPage"],
+    "features": [
+      "Modren Website",
+      "ART STYLE",
+      "CSS Animation",
+      "custom cursor",
+      "slider",
+      "add Product in cart"
+    ],
+    "projectTypes": {
+      "type": "personel web",
+      "version": "demo",
+      "size": "medium"
+    },
+    "technologys": [
+      {
+        "html": [""],
+        "css": ["flex box", "grid system", "media query"],
+        "javascript": ["dynamiq data", "ES6", "local storage"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 7,
+    "pages": 2,
+    "dynamic": true,
+    "responsive": false,
+    "colors": ["#806b39", "#f6f6f6", "#131414", "#acacac", "#494949f1"],
+    "fonts": ["Helvetica Now Text"],
+    "themes": ["white"],
+    "code": "private",
+    "websiteURL": "https://personel-web.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": "",
+    "feedback": "that website have a bad performance and bugs need to fix, created with vanilla js"
+  },
+  {
+    "id": {
+      "id": 9
+    },
+    "title": "movie web",
+    "desc": "a movie streaming website created with vanilla javascript Responsive and able to be pulled up on mobile devices + Modern design with css3 grid layout flexbox and media query have more than 8 pages.",
+    "thumbnail": "images/thumbnail/movie-web-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/movies/movies-1.jpg",
+      "images/images-package/movies/movies-1-h.jpg",
+      "images/images-package/movies/movies-1-s.jpg",
+      "images/images-package/movies/movies-2.jpg",
+      "images/images-package/movies/movies-3.jpg",
+      "images/images-package/movies/movies-4.jpg",
+      "images/images-package/movies/movies-5.jpg",
+      "images/images-package/movies/movies-1-page-2.jpg",
+      "images/images-package/movies/movies-1-page-3.jpg",
+      "images/images-package/movies/movies-1-page-4.jpg",
+      "images/images-package/movies/movies-1-page-5.jpg",
+      "images/images-package/movies/movies-1-page-6.jpg",
+      "images/images-package/movies/movies-1-page-7.jpg",
+      "images/images-package/movies/movies-2-page-7.jpg"
+    ],
+    "components": [
+      "Home",
+      "Movies page (Coming with Two Design Styles)",
+      "categorys",
+      "Movie Detail Page",
+      "movie you liked Page",
+      "Trailers",
+      "sign up / Login",
+      "My Account"
+    ],
+    "features": [
+      "watch movies",
+      "filter movies",
+      "search",
+      "change Movies & Series view",
+      "like and save",
+      "sign up and login",
+      "download movie (soon)"
+    ],
+    "projectTypes": {
+      "type": "movie streaming",
+      "version": "full",
+      "size": "big"
+    },
+    "technologys": [
+      {
+        "html": [""],
+        "css": ["flex box", "grid system", "media query"],
+        "javascript": ["local storage , JSON, ES6"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 7.8,
+    "pages": 8,
+    "dynamic": true,
+    "responsive": true,
+    "colors": [
+      "#3b5998",
+      "#fb8a33",
+      "#ff6347",
+      "#93b3f8",
+      "#28292a",
+      "#353638",
+      "#adb7be",
+      "rgb(126, 126, 126)"
+    ],
+    "fonts": ["poppins", "roboto"],
+    "themes": ["dark"],
+    "code": "private",
+    "websiteURL": "https://movies-streaming-web.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": "more than 5.000"
+  },
+  {
+    "id": {
+      "id": 11
+    },
+    "title": "promote app",
+    "desc": "",
+    "thumbnail": "images/thumbnail/best-app-bunner.jpg",
+    "imagesURL": [
+      "images/images-package/app1/my-app-1.jpg",
+      "images/images-package/app1/my-app-2.jpg",
+      "images/images-package/app1/my-app-3.jpg",
+      "images/images-package/app1/my-app-4.jpg",
+      "images/images-package/app1/my-app-5.jpg",
+      "images/images-package/app1/my-app-6.jpg",
+      "images/images-package/app1/my-app-7.jpg",
+      "images/images-package/app1/my-app-8.jpg",
+      "images/images-package/app1/my-app-9.jpg",
+      "images/images-package/app1/my-app-10.jpg",
+      "images/images-package/app1/my-app-11.jpg"
+    ],
+    "projectTypes": {
+      "type": "app",
+      "version": "demo",
+      "size": "small"
+    },
+    "technologys": [
+      {
+        "sass": ["flex box", "grid system", "media query"],
+        "reactjs": ["react desc"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 5,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": ["#2500f9", "#f55767", "#40975f", "#2500f9", "#242f51"],
+    "fonts": ["Poppins"],
+    "themes": ["white"],
+    "code": "private",
+    "websiteURL": "https://our-app.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 10
+    },
+    "title": "mousikty",
+    "desc": "Mouzikty a Full Stack Website for Audio Streaming made with Javascript using ReactJS , Redux , Nodejs , SCSS  and  Modern Design , highly performance using the latest technologies, such as hooks. it allows user to register and it deals with authentication in the backend as well fronted It allows user to search , create playlist and more",
+    "thumbnail": "images/thumbnail/web-streaming.jpg",
+    "imagesURL": [
+      "images/images-package/mouzikty/mouzikty-1.jpg",
+      "images/images-package/mouzikty/mouzikty-2.jpg",
+      "https://i.ibb.co/QpwL4YY/screencapture-localhost-3001-2021-08-02-22-54-10.png",
+      "https://i.ibb.co/pJH0NkM/Screenshot-21.png",
+      "https://i.ibb.co/sVm7VRb/Screenshot-36.png",
+      "https://i.ibb.co/Q8p7ZWC/Screenshot-29.png",
+      "https://i.ibb.co/Bw7bJ6x/Screenshot-30.png",
+      "https://i.ibb.co/zR55zB9/screencapture-localhost-3001-6-2021-08-02-23-03-21.png",
+      "https://i.ibb.co/YjTPh7h/Screenshot-27.png",
+      "https://i.ibb.co/L5v4KrT/Screenshot-25.png",
+      "https://i.ibb.co/zm45j7D/Screenshot-32.png"
+    ],
+    "components": [
+      "Libary",
+      "For you",
+      "Browser",
+      "Radio",
+      "Store",
+      "My Account",
+      "liked music section",
+      "playlists section",
+      "side bar",
+      "footer(music player)"
+    ],
+    "features": [
+      "Register / Login",
+      "Edit Profile",
+      "play music",
+      "add to recenty played",
+      "add playlist / add To playlist",
+      "edit playlist ",
+      "remove playist",
+      "like / dislike",
+      "music player (play , pause , volume control , repeate , shuffle)",
+      "switch theme(prefers-color-scheme)",
+      "alert verification"
+    ],
+    "projectTypes": {
+      "type": "media streaming",
+      "version": "beta",
+      "size": "big"
+    },
+    "technologys": [
+      {
+        "sass": [
+          "flex box",
+          "grid system",
+          "media query",
+          "vars",
+          "blur effect"
+        ],
+        "reactjs": ["Hooks", "Context API", "React Router", "React Icons"],
+        "redux": ["Redux-thunk"],
+        "nodejs": [""],
+        "mongoose": [""],
+        "mongodb": [""]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 8.5,
+    "pages": "+6",
+    "dynamic": true,
+    "responsive": false,
+    "colors": [
+      "#006AFE",
+      "#EDC5C6",
+      "#80808023",
+      "#181a1d",
+      "#212428",
+      "#25282c",
+      "#e1e1eb"
+    ],
+    "fonts": ["Segoe UI", "Poppins", "arial"],
+    "themes": ["white", "dark"],
+    "lightHouse": [
+      {
+        "performance": "81%",
+        "seo": "100%",
+        "accessibility": "98%",
+        "practices": "100%",
+        "pwa": "none"
+      }
+    ],
+    "code": "private",
+    "websiteURL": "https://mouzikty.herokuapp.com/",
+    "githubURL": "https://github.com/aminbenz/mouzikty",
+    "lines_of_code": "+10.000",
+    "feedback": ""
+  },
+  {
+    "id": {
+      "id": 77
+    },
+    "title": "Postyy",
+    "desc": "Postyy a full stack Social Network Website. fully functional & RealTime chating made with Javascript using ReactJS , Redux , Nodejs, mongoDB , Socket Io User friendly , customizable , highly performance. fully Responsive able to pulet in mobile devices. along the way it uses the React Hooks to make it more efficient.",
+    "thumbnail": "images/thumbnail/postyy.png",
+    "imagesURL": [
+      "https://i.ibb.co/2ddNp2h/postyy-imac-main.png",
+      "https://i.ibb.co/3yT6ntW/postyy-phones-main.png",
+      "https://i.ibb.co/fFzHMqy/home.png",
+      "https://i.ibb.co/5kGDH0H/add-post.png",
+      "https://i.ibb.co/2sfhhcD/profile-page.pngg",
+      "https://i.ibb.co/2kks2Nw/posty-editaccount.png",
+      "https://i.ibb.co/fNZcKgm/posty-postdetails.png",
+      "https://i.ibb.co/m01N14S/add-comment.png",
+      "https://i.ibb.co/xCY00kq/Screenshot-165.png",
+      "https://i.ibb.co/JK6Z8Yz/register.png",
+      "https://i.ibb.co/NVqQv4D/messenger.png"
+    ],
+    "components": [
+      "Home",
+      "explore",
+      "Profile Page",
+      "Messenger Page",
+      "Post Details",
+      "Notification",
+      "Messages",
+      "Bookmarks",
+      "Themes",
+      "Settings",
+      "Register / Login Page"
+    ],
+    "features": [
+      "Mobile Responsive ",
+      "Modren Design comes with a user-friendly interface",
+      "animations",
+      "3 Themes + customizable ",
+      "Photo sharing : you can share images, media files",
+      "add post, read , update, delete and save",
+      "like , Dislike and Reactions, Comments..",
+      "Post Details Page",
+      "protecting Routee",
+      "Edit User Profile & Profile Pic, Cover Pic ..",
+      "profile followers & following  Management",
+      "Search Bar Search Users",
+      "follow / unfollow ",
+      "Real Time Messaging system",
+      "Messanger Page + Messanger Popup : - send real time message "
+    ],
+
+    "projectTypes": {
+      "type": "social media",
+      "version": "Beta",
+      "size": "big"
+    },
+    "technologys": [
+      {
+        "sass": ["flex box", "grid system", "media query"],
+        "reactjs": ["Hooks", "Context API", "React Router"],
+        "redux": ["Redux-thunk"],
+        "framermotion": [""],
+        "nodejs": [""],
+        "mongoose": [""],
+        "mongodb": [""],
+        "socketio": [""],
+        "alanAI": ["Voice chat With AI"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 9.2,
+    "pages": "SPA",
+    "dynamic": true,
+    "responsive": true,
+    "colors": [
+      "#ffffff",
+      "#c8c5d4",
+      "#241e38",
+      "#151221",
+      "#000000",
+      "#6b4ce6",
+      "#e6d14d",
+      "#e64d61",
+      "#4de69e"
+    ],
+    "fonts": ["Poppins"],
+    "themes": ["white", "dark", "dark-atom"],
+    "lightHouse": [
+      {
+        "performance": "55%",
+        "seo": "100%",
+        "accessibility": "100%",
+        "practices": "100%",
+        "pwa": "none"
+      }
+    ],
+    "code": "public",
+    "websiteURL": "https://postyyy.herokuapp.com/",
+    "githubURL": "https://github.com/aminbenz/postyy",
+    "lines_of_code": "more than 15.000",
+    "feedback": "a complex social media app with Alan AI"
+  },
+  {
+    "id": {
+      "id": 17
+    },
+    "title": "king glass",
+    "desc": "",
+    "thumbnail": "images/thumbnail/kingglass.jpg",
+    "imagesURL": ["images/images-package/kingglass.png"],
+    "projectTypes": {
+      "type": "services",
+      "version": "demo",
+      "size": "small"
+    },
+
+    "technologys": [
+      {
+        "html": ["desc"],
+        "css": ["flex box", "grid system", "media query"],
+        "sass": ["sass desc"]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 4,
+    "pages": 1,
+    "dynamic": false,
+    "responsive": false,
+    "colors": [
+      "#e6cf39",
+      "#191919",
+      "white",
+      "rgba(128, 128, 128, 0.575)",
+      "#3b3d42"
+    ],
+    "fonts": ["Montserrat", "Righteous"],
+    "themes": ["black"],
+    "code": "private",
+    "websiteURL": "https://kingglass.netlify.app/",
+    "githubURL": "",
+    "lines_of_code": ""
+  },
+  {
+    "id": {
+      "id": 18
+    },
+    "title": "benz lab",
+    "desc": "Many services in one place - Play Games - get Weather - get Advice - get COVID Status. Benzlab a Front End Website for Provider Services Benzlab provide more than 10 services working with APIs and 3D elements + advanced animation with framer motion fully functional Modern Design - Responsive",
+
+    "thumbnail": "images/thumbnail/amin-benz-lab-thumbnail.jpg",
+    "imagesURL": [
+      "images/images-package/benzlab/give-me-advice.png",
+      "https://i.ibb.co/VBxSCH1/Screenshot-2022-03-21-at-19-10-04-Vite-App.png",
+      "https://i.ibb.co/0K9JK0n/discord.png",
+      "images/images-package/benzlab/clock.png",
+      "images/images-package/benzlab/calculator.png",
+      "images/images-package/benzlab/tetris.png",
+      "https://i.ibb.co/nMhNdkQ/Screenshot-2022-03-21-at-19-08-30-Vite-App.png",
+      "images/images-package/benzlab/one-million.png",
+      "images/images-package/benzlab/memory-game.png",
+      "images/images-package/benzlab/todo-app.png",
+      "images/images-package/benzlab/news.png",
+      "images/images-package/benzlab/map.png",
+      "images/images-package/benzlab/weather.png"
+    ],
+    "components": [
+      "Home",
+      "Give Me Advice",
+      "Covid19-status",
+      "News",
+      "Map",
+      "Discord",
+      "Get Systeme Info ",
+      "Tetris Game",
+      "Mellion Game",
+      "Memory Game",
+      "Weather",
+      "Todo App",
+      "Calculator",
+      "Clock"
+    ],
+    "features": [
+      "play games like : (Mellion Game / Memory Game / snake / Tetris )...",
+      "Many services in one place",
+      "Get Current Covid Status in any country",
+      "Map : find your next restaurant",
+      "Get Systeme Info",
+      "Real Time Chatting (discord clone)",
+      "Get News with AI with Your Voice",
+      "Weather & Clock ",
+      "Get Advice",
+      "Modren Design & Easy to use"
+    ],
+    "projectTypes": {
+      "type": "services",
+      "version": "demo",
+      "size": "big"
+    },
+    "technologys": [
+      {
+        "reactjs": ["vite"],
+        "css": ["scss"],
+        "materialui": [""],
+        "tailwindcss": [""],
+        "threejs": [""],
+        "framermotion": [""],
+        "nodejs": [""],
+        "expressjs": [""],
+        "firebase": [""],
+        "socketio": [""]
+      }
+    ],
+    "owner": "amin benz",
+    "time_upload": null,
+    "rating": 8.3,
+    "pages": 10,
+    "dynamic": true,
+    "responsive": true,
+    "colors": ["#0e0e0e", "#ffffff"],
+    "fonts": ["Segoe UI"],
+    "themes": ["dark", "light"],
+    "code": "public",
+    "websiteURL": "https://benzlab.herokuapp.com/",
+    "githubURL": "https://github.com/aminbenz/benzlab"
+  }
+]
